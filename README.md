@@ -18,14 +18,14 @@ I build AI systems that solve real-world problems. Whether working with computer
 
 ## 🚀 Featured Projects
 
-| Project | What it solves | Tech |
-| --- | --- | --- |
-| 🌿 [Plant Disease Detection](https://github.com/AmirmohsenSamadi/plant-disease-detection) | Classifies plant diseases from leaf images to support early diagnosis | Python, TensorFlow, OpenCV |
-| 🎨 [Image Generation with VAE & GAN](https://github.com/AmirmohsenSamadi/image-generation-vae-gan) | Compares generative models for image synthesis using qualitative and quantitative metrics | PyTorch |
-| 🌊 [Lake Water Level Forecasting](https://github.com/AmirmohsenSamadi/lake-water-level-forecasting) | Forecasts water levels from historical level and inflow data | Python, LSTM, Pandas |
-| 💬 [Sentiment Analysis at Scale](https://github.com/AmirmohsenSamadi/sentiment-analysis-spark) | Classifies sentiment in large text datasets with distributed processing | Apache Spark, Python |
-| 🕸️ [Web Scraping & SQL Data Pipeline](https://github.com/AmirmohsenSamadi/web-scraping-sql-pipeline) | Collects, cleans and stores data from web and API sources, with Power BI dashboards | Python, SQL, Power BI |
-| 🛒 [Superstore Profit Analysis](https://github.com/AmirmohsenSamadi/superstore-profit-analysis) | Identifies the drivers of retail profitability with EDA, hypothesis testing and modelling | Python, scikit-learn |
+| Project | What it solves | Key results | Tech |
+| --- | --- | --- | --- |
+| 🌿 [Plant Disease Detection](https://github.com/AmirmohsenSamadi/plant-disease-detection-yolo) | Detects and classifies 27 types of healthy and diseased leaves in real-world photos | mAP@50 0.59 on unseen test images | YOLO11, PyTorch, OpenCV |
+| 🎨 [VAE vs. GAN Image Generation](https://github.com/AmirmohsenSamadi/vae-vs-gan-image-generation) | Compares two generative models with six quantitative metrics | GAN: ~2.7× lower Fréchet distance than VAE | PyTorch, scikit-learn |
+| 🌊 [Lake Level & Inflow Forecasting](https://github.com/AmirmohsenSamadi/lake-forecasting-time-series) | Forecasts a lake's water level and inflow from 18 years of weather data | SARIMAX: 0.16% MAPE on lake level | statsmodels, pandas |
+| 💬 [Tweet Sentiment Analysis at Scale](https://github.com/AmirmohsenSamadi/twitter-sentiment-pyspark) | Classifies 1.6M tweets with a distributed NLP pipeline | 76% accuracy, 0.765 F1 | PySpark, Databricks, NLTK |
+| 💊 [Italian Medicines Data Pipeline](https://github.com/AmirmohsenSamadi/aifa-medicines-data-pipeline) | Turns official medicine PDFs into a SQL database and dashboard | 10 clinical fields extracted per medicine | Python, MySQL, Power BI |
+| 🛒 [Superstore Profit Analysis](https://github.com/AmirmohsenSamadi/superstore-profit-analysis) | Finds what drives retail profit and losses | Random Forest R² 0.89 | scikit-learn, SciPy |
 
 ---
 
@@ -40,11 +40,16 @@ I build AI systems that solve real-world problems. Whether working with computer
 **ML & AI:** 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat)
 
 **Data & Tools:** 
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
