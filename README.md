@@ -1,17 +1,17 @@
 # Hi, I'm Amirmohsen Samadi 👋
 
-**AI Engineer | MSc Data Science @ University of Naples Federico II**
+**AI & ML Engineer | MSc Data Science | University of Naples Federico II**
 
-I build AI systems that solve real-world problems — from computer vision and time-series forecasting to NLP and generative models. I care about the full path from raw data to a working, measurable solution.
+I build AI systems that solve real-world problems. Whether working with computer vision, time-series forecasting, NLP, or generative models, I care about the full path from raw data to a working, measurable solution.
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 MSc Data Science (Intelligent Systems) at **Università degli Studi di Napoli Federico II**
+- 🎓 MSc Data Science, **Intelligent Systems** curriculum, at the **University of Naples Federico II**
 - 💼 Former Data Analyst, with hands-on experience turning data into business decisions
 - 🔬 Research background: **9 peer-reviewed publications** ([Google Scholar](https://scholar.google.com/citations?user=lRspgV0AAAAJ&hl=en))
-- 🌱 Currently learning: LLM applications (RAG, agents), model evaluation, and deploying AI to production
+- ⚙️ Currently working on: LLM applications (RAG, agents), model evaluation, and deploying AI to production
 - 📍 Based in Naples, Italy
 
 ---
@@ -35,7 +35,7 @@ I build AI systems that solve real-world problems — from computer vision and t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 **ML & AI:** 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -58,4 +58,4 @@ I build AI systems that solve real-world problems — from computer vision and t
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirmohsen47@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=lRspgV0AAAAJ&hl=en)
 
-I'm open to AI engineering roles and research opportunities. Feel free to reach out.
+I'm open to AI & ML engineering roles and research opportunities. Feel free to reach out.
